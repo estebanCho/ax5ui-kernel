@@ -8,6 +8,9 @@
   master : v0.1 릴리즈
   FB_A : A 기능 개발
   master : <- FB_A A merge
+  FB_A : B 기능 개발 <- v0.2에 들어갈 장기 기능이다.
+  FB_A : B 기능 개발 중
+  FB_A : B 기능 개발 완료
   */
 
 // ax5.ui.modal
