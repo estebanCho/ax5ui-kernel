@@ -11,6 +11,7 @@
   Git flow workflow
 
   develop : 상용이 필요한 기능 개발 A commit
+  featureB : v1.0 사용 기능 장기 개발 C
  */
 
 // Karma configuration
