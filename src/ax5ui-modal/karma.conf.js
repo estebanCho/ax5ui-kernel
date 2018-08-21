@@ -4,6 +4,10 @@
  * - www.axisj.com
  */
 
+/*
+ HOTFIX : hotfix 처리
+ */
+
 // Karma configuration
 // Generated on Wed Sep 21 2016 00:37:04 GMT+0900 (KST)
 
