@@ -6,6 +6,7 @@
 
  /*
   master : v0.1 릴리즈
+  FB_A : A 기능 개발
   */
 
 // ax5.ui.modal
