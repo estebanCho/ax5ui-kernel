@@ -29,6 +29,11 @@
   develop : 상용 기능 개발 F 개발 commit
   develop : 상용 기능 개발 G 개발 commit
   featureA : v0.5에 들어갈 기능 개발 C commit
+
+  ----------------------
+  release v0.5
+  release : v0.5 기능 테스트 및 개선
+  ----------------------
   */
 
 // ax5.ui.modal
