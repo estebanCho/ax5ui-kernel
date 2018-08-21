@@ -10,6 +10,7 @@
   develop : 상용이 필요한 기능 개발 A commit
 
   featureA : v0.5에 들어갈 기능 개발 A commit
+  featureA : v0.5에 들어갈 기능 개발 B commit
  */
 (function () {
     var MENU = ax5.ui.menu;
