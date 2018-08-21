@@ -3,6 +3,11 @@
  FB_A : B 기능 개발 <- v0.2에 들어갈 장기 기능이다.
  FB_A : B 기능 개발 중
  FB_A : B 기능 개발 완료
+
+ ###########################################
+  Git flow workflow
+
+  develop : 상용이 필요한 기능 개발 A commit
  */
 (function () {
     var MENU = ax5.ui.menu;

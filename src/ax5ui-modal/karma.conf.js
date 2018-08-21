@@ -6,6 +6,11 @@
 
 /*
  HOTFIX : hotfix 처리
+
+ ###########################################
+  Git flow workflow
+
+  develop : 상용이 필요한 기능 개발 A commit
  */
 
 // Karma configuration
