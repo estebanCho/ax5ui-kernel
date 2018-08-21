@@ -19,6 +19,8 @@
   Git flow workflow
 
   develop : 상용이 필요한 기능 개발 A commit
+  develop : 상용이 필요한 기능 개발 B add
+  develop : 상용이 필요한 기능 개발 B commit 전 diff 비교
   */
 
 // ax5.ui.modal
