@@ -22,6 +22,8 @@
   develop : 상용이 필요한 기능 개발 B add
   develop : 상용이 필요한 기능 개발 B commit 전 diff 비교
   develop : 상용이 필요한 기능 개발 C commit
+
+  featureA : v0.5에 들어갈 기능 개발 C commit
   */
 
 // ax5.ui.modal
