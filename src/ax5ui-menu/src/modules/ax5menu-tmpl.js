@@ -8,6 +8,7 @@
   Git flow workflow
 
   develop : 상용이 필요한 기능 개발 A commit
+  develop : 상용 기능 개발 E 개발 commit
  */
 (function () {
     var MENU = ax5.ui.menu;
