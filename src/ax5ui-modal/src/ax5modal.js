@@ -9,6 +9,8 @@
   FB_A : A 기능 개발
   master : <- FB_A A merge
   HOTFIX : hotfix 처리
+  FB_B : B 기능 빠른 개선
+  FB_B : B 기능 완료 commit
   */
 
 // ax5.ui.modal
