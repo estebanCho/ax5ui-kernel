@@ -13,6 +13,7 @@
   develop : 상용이 필요한 기능 개발 A commit
   develop : 상용이 필요한 기능 개발 B commit
   develop : 상용 기능 개발 D 개발 commit
+  develop : 상용 기능 개발 F 개발 commit
  */
 
 // Karma configuration
