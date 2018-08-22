@@ -46,6 +46,8 @@
 
   esteban develop : 기능 B
   janghoon master : 기능 A
+
+  esteban develop : janghoon conflict 유도 commit C1 ==> 15:23
   */
 
 // ax5.ui.modal

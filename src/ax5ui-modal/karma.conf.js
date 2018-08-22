@@ -24,6 +24,8 @@
   release v1.0
   release_v1.0 : 코드 리뷰 수정 A
   ----------------------
+
+  esteban develop : janghoon conflict 유도 commit C2 ==> 15:23
  */
  
 
