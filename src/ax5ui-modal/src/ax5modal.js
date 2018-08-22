@@ -36,6 +36,8 @@
   release : v0.5 기능 개선 B
   release : v0.5 기능 개선 D
   ----------------------
+
+  featureB : v1.0 사용 기능 장기 개발 C
   */
 
 // ax5.ui.modal
