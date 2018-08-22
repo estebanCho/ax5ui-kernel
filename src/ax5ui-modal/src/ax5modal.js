@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2016. tom@axisj.com
  * - github.com/thomasjang
  * - www.axisj.com
@@ -43,6 +43,8 @@
   release v1.0
   release_v1.0 : 코드 리뷰 수정 A
   ----------------------
+
+ janghoon master : 기능 A
   */
 
 // ax5.ui.modal
