@@ -34,6 +34,7 @@
   release v0.5
   release : v0.5 기능 테스트 및 개선
   release : v0.5 기능 개선 B
+  release : v0.5 기능 개선 D
   ----------------------
   */
 
