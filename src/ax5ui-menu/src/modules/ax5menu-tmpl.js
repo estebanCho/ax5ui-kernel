@@ -18,6 +18,10 @@
 
   featureB : v1.0 사용 기능 장기 개발 B
   featureB : v1.0 사용 기능 장기 개발 C
+
+  ----------------------
+  release v1.0
+  ----------------------
  */
 (function () {
     var MENU = ax5.ui.menu;
