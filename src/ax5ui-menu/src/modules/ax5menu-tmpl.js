@@ -22,6 +22,8 @@
   ----------------------
   release v1.0
   ----------------------
+
+  esteban develop : janghoon conflict 유도 commit D1 ==> 15:25
  */
 (function () {
     var MENU = ax5.ui.menu;

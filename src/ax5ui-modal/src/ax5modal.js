@@ -48,6 +48,8 @@
   janghoon master : 기능 A
 
   esteban develop : janghoon conflict 유도 commit C1 ==> 15:23
+  esteban develop : janghoon conflict 유도 commit D1 ==> 15:25
+  esteban develop : janghoon conflict 유도 commit D3 ==> 15:28
   */
 
 // ax5.ui.modal
