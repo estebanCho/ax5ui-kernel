@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2016. tom@axisj.com
  * - github.com/thomasjang
  * - www.axisj.com
@@ -45,6 +45,7 @@
   ----------------------
 
   esteban develop : 기능 B
+  janghoon master : 기능 A
   */
 
 // ax5.ui.modal
