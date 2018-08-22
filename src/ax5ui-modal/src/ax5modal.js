@@ -46,6 +46,8 @@
 
   esteban develop : 기능 B
   janghoon master : 기능 A
+
+  janghoon0630 develop :  esteban.cho와의 충돌을 유도하는 commit A
   */
 
 // ax5.ui.modal
