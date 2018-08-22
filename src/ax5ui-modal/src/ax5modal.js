@@ -53,6 +53,8 @@
   esteban develop : janghoon conflict 유도 commit D1 ==> 15:25
   esteban develop : janghoon conflict 유도 commit D3 ==> 15:28
   janghoon develop : conflict 유도 commit E ==> 15:32
+
+  git add status test
   */
 
 // ax5.ui.modal

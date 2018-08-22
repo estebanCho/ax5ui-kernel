@@ -13,3 +13,4 @@ _git
 yarn.lock
 files
 npm-debug.log
+*.abcd
