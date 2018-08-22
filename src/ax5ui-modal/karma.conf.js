@@ -14,7 +14,13 @@
   develop : 상용이 필요한 기능 개발 B commit
   develop : 상용 기능 개발 D 개발 commit
   develop : 상용 기능 개발 F 개발 commit
+  ----------------------
+  release : v0.5 기능 버그 수정 C
+  ----------------------
+
+  hunk 단위 테스트 1
  */
+ 
 
 // Karma configuration
 // Generated on Wed Sep 21 2016 00:37:04 GMT+0900 (KST)
