@@ -45,11 +45,14 @@
   ----------------------
 
   esteban develop : 기능 B
-  janghoon master : 기능 A
+  janghoon master : 개선 A
 
+  janghoon0630 develop : esteban.cho와의 충돌을 유도하는 commit A
+  janghoon0630 develop : conflict 유도 commit B ==> 15:21
   esteban develop : janghoon conflict 유도 commit C1 ==> 15:23
   esteban develop : janghoon conflict 유도 commit D1 ==> 15:25
   esteban develop : janghoon conflict 유도 commit D3 ==> 15:28
+  janghoon develop : conflict 유도 commit E ==> 15:32
   */
 
 // ax5.ui.modal
