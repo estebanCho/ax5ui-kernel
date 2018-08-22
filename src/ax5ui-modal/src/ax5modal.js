@@ -45,7 +45,7 @@
   ----------------------
 
   esteban develop : 기능 B
-  janghoon master : 기능 A
+  janghoon master : 개선 A
 
   janghoon0630 develop : esteban.cho와의 충돌을 유도하는 commit A
   janghoon0630 develop : conflict 유도 commit B ==> 15:21
